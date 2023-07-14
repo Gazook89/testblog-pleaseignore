@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.testblog-pleaseignore.com/sitemap.xml
